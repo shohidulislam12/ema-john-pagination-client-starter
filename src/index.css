@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.pagination button{
+  margin-right: 10px;
+  
+}
+.pagination {
+  text-align: center;
+}
+.pagination .selected {
+  background-color: rgb(207, 180, 207);
+}
